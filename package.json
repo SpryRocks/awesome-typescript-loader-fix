@@ -62,7 +62,7 @@
         "ps-node": "^0.1.1",
         "rimraf": "^2.5.0",
         "sinon": "^1.17.4",
-        "standard-version": "^2.4.0",
+        "standard-version": "^8.0.1",
         "temp": "^0.8.3",
         "tslint": "^3.14.0",
         "typescript": "^2.0.2",
